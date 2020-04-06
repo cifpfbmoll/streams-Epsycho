@@ -1,5 +1,5 @@
 //Practica 7. Daniel Alfredo Apesteguia Timoner.
-package practica;
+package P7_1;
 
 import java.io.*;
 import java.util.*;

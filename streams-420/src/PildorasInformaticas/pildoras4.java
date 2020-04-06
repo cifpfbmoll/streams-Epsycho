@@ -1,5 +1,5 @@
 //Daniel Alfredo Apesteguia Timoner. Lectura y escritura
-package streams;
+package PildorasInformaticas;
 
 import java.io.*;
 

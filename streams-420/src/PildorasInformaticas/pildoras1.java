@@ -1,5 +1,5 @@
 //Daniel Alfredo Apesteguia Timoner. Leyendo
-package streams;
+package PildorasInformaticas;
 
 import java.io.*;
 
